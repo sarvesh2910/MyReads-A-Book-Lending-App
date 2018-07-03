@@ -6,7 +6,7 @@ A bookshelf app that allows user to select and categorize books as you have read
 - Clone the Repository
 - `npm install`
 - `npm start`
--The app will run by default at `localhost:3000`
+-The app will run by default at `localhost:8000`
 
 ## Technologies Used
 
